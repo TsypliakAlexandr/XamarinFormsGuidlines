@@ -1,0 +1,12 @@
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\bin\Debug\netstandard2.0\SimpleApp.deps.json
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\bin\Debug\netstandard2.0\SimpleApp.dll
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\bin\Debug\netstandard2.0\ref\SimpleApp.dll
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\bin\Debug\netstandard2.0\SimpleApp.pdb
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\obj\Debug\netstandard2.0\SimpleApp.csprojAssemblyReference.cache
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\obj\Debug\netstandard2.0\SimpleApp.AssemblyInfoInputs.cache
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\obj\Debug\netstandard2.0\SimpleApp.AssemblyInfo.cs
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\obj\Debug\netstandard2.0\SimpleApp.dll
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\obj\Debug\netstandard2.0\ref\SimpleApp.dll
+D:\2_My own applications\31_Build mobile apps with Xamarin.Forms\Module_1_Create_simple_app\SimpleApp\SimpleApp\SimpleApp\SimpleApp\obj\Debug\netstandard2.0\SimpleApp.pdb
